@@ -1,9 +1,13 @@
 # 推房开放平台
 
-推房开放平台面向租房、二手房、商办、写字楼、商铺等业务场景提供开放 API，帮助合作方将业务系统接入推房助手。
+推房助手开放平台面向闲鱼租房、二手房、商办、写字楼、商铺等业务场景提供开放 API，帮助合作方将业务系统接入闲鱼房产。
 
 [![接口文档](https://img.shields.io/badge/接口文档-推房开放平台-1677ff)](https://tuifang-open-wiki.yumeng.work/)
 [![开放平台](https://img.shields.io/badge/开放平台-登录入口-1677ff)](https://tuifang-open.yumeng.work/open-platform/platforms)
+
+## 适合哪些用户
+
+- 具备研发能力的智慧公寓系统、资产管理系统、公寓管理系统、长租公寓团队
 
 ## 你可以接入什么
 
