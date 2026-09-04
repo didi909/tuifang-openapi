@@ -19,7 +19,7 @@
 
 审核通过后，我们会为你开通开放平台账号。登录后可创建应用、获取 `AppKey` 与 `AppSecret`，并按已授权范围调用接口。
 
-<img src="assets/contact-wechat.jpg" alt="推房开放平台负责人微信二维码" width="300" />
+<img src="assets/contact-wechat.svg" alt="推房开放平台负责人微信二维码" width="300" />
 
 ## 接入流程
 
@@ -47,4 +47,3 @@
 ## 安全说明
 
 密钥仅用于服务端调用。请不要将 `AppSecret` 写入前端代码、公开仓库、截图、Issue 或聊天记录。发现安全问题请按 [SECURITY.md](SECURITY.md) 的方式联系。
-
